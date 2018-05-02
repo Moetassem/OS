@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "semaphore.h": "c",
+        "memory.h": "c",
+        "stdbool.h": "c",
+        "math.h": "c"
+    }
+}
